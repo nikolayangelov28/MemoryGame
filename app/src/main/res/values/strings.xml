@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="emoji0">&#x1F603;</string>
+    <string name="emoji1">&#x1F631;</string>
+    <string name="emoji2">&#x1F607;</string>
+    <string name="emoji3">&#x1F605;</string>
+    <string name="emoji4">&#x26BD;</string>
+    <string name="emoji5">&#x1F49A;</string>
+    <string name="emoji6">&#x1F929;</string>
+    <string name="emoji7">&#x1F44D;</string>
+    <string name="emoji8">&#x1F480;</string>
+    <string name="emoji9">&#x1F444;</string>
+    <string name="emoji10">&#x1F469;</string>
+    <string name="emoji11">&#x1F42F;</string>
+    <string name="emoji12">&#x1F340;</string>
+    <string name="emoji13">&#x1F37B;</string>
+    <string name="emoji14">&#x1F315;</string>
+
+
+
+
+</resources>
