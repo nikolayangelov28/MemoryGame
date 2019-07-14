@@ -2,7 +2,7 @@
 
 This is a simple android memory game.
 
-## Requirements
+## Features
 
 * timer
 * card flips
